@@ -35,6 +35,10 @@
   - [https://lang-8.com/](https://lang-8.com/)
   - [http://www.really-learn-english.com/](http://www.really-learn-english.com/)
 
+9. Apps
+  - [Duolingo](https://www.duolingo.com/)
+  - English Radio
+
 ## My To Do List
 - Read at least one article per day
 - Change all my devices to English 
