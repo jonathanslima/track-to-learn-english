@@ -15,6 +15,7 @@
   - [Londres na Lata](https://www.youtube.com/channel/UCqBxQUhcaxPKGHT-ftjwFqw)
   - [Aprendo e Compartilho](https://www.youtube.com/user/davifreitasweb)
   - [English in brazil](https://www.youtube.com/channel/UCcNm9fM9V5wf-0PZVmkM08g)
+  - [Mairo Vergara](https://www.youtube.com/user/MairoVergara)
 
 4. Books `read` `speak`
   - [http://www.childrensbooksforever.com/index.html](http://www.childrensbooksforever.com/index.html)
