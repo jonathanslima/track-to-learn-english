@@ -61,3 +61,7 @@
 - Change all my devices to English 
 - To learn three new words in english everyday
 - Watch at least one video with subtitles in English (or no subtitles)
+
+## Help us to improve this track
+
+You can [help us here](contribute.md).
