@@ -34,6 +34,7 @@
   - [https://www.interpals.net/index.php](https://www.interpals.net/index.php)
   - [https://lang-8.com/](https://lang-8.com/)
   - [http://www.really-learn-english.com/](http://www.really-learn-english.com/)
+  - [http://inglesdebolso.com/](http://inglesdebolso.com/)
 
 9. Apps
   - [Duolingo](https://www.duolingo.com/)
