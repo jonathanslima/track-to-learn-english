@@ -20,6 +20,7 @@
   - [Mairo Vergara](https://www.youtube.com/user/MairoVergara)
   - [Learn English ESL](https://www.youtube.com/user/LearnEnglishESL)
   - [BBC Learning English](https://www.youtube.com/user/bbclearningenglish/featured)
+  - [Projeto Crazy English](https://www.youtube.com/user/ProjetoCrazyEnglish)
 
 4. Books `read` `speak`
   - [Childrens Books Forever](http://www.childrensbooksforever.com/index.html)
