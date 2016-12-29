@@ -33,6 +33,7 @@
   - [ESLPpod](https://www.eslpod.com/website/)
   - [Inglês todos os dias](http://www.domineingles.com.br/category/ingles-todos-os-dias/)
   - [English Teacher Melanie](http://www.englishteachermelanie.com/the-english-teacher-melanie-podcast/)
+  - [Agora eu falo Inglês](http://agoraeufalo.com/)
 
 7. Sites `listen` `read` `speak` `writing`
   - [Interpals](https://www.interpals.net/index.php)
