@@ -66,6 +66,10 @@
       - [http://www.pickthebrain.com/blog/](http://www.pickthebrain.com/blog/)
       - [http://www.lifeoptimizer.org/](http://www.lifeoptimizer.org/)
 
+    + Web Development
+      - [-https://www.sitepoint.com/](https://www.sitepoint.com/)
+      - [https://www.smashingmagazine.com/](https://www.smashingmagazine.com/)
+
 10. Grammar
   - [English Experts](http://www.englishexperts.com.br/)
   - [English Page](http://www.englishpage.com/)
