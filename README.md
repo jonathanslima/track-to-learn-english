@@ -59,9 +59,12 @@
       - [http://www.theverge.com/](http://www.theverge.com/)
       - [http://www.digitaltrends.com/](http://www.digitaltrends.com/)
       - [http://thenextweb.com/](http://thenextweb.com/)
-      
-    + Productivity
 
+    + Productivity
+      - [http://lifehacker.com/](http://lifehacker.com/)
+      - [http://www.productivity501.com/](http://www.productivity501.com/)
+      - [http://www.pickthebrain.com/blog/](http://www.pickthebrain.com/blog/)
+      - [http://www.lifeoptimizer.org/](http://www.lifeoptimizer.org/)
 
 10. Grammar
   - [English Experts](http://www.englishexperts.com.br/)
