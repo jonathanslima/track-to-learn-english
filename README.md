@@ -47,11 +47,21 @@
   - [Duolingo](https://www.duolingo.com/)
   - English Radio
 
-9. News
-  - [Learning English](http://learningenglish.voanews.com/)
-  - [New York Times](http://www.nytimes.com/)
-  - [Time](http://time.com/)
-  - [TechCrunch](http://techcrunch.com/)
+9. Read
+    + Journal
+      - [Learning English](http://learningenglish.voanews.com/)
+      - [New York Times](http://www.nytimes.com/)
+      - [Time](http://time.com/)
+    
+    + Technology
+      - [TechCrunch](http://techcrunch.com/)
+      - [https://9to5mac.com/](https://9to5mac.com/)
+      - [http://www.theverge.com/](http://www.theverge.com/)
+      - [http://www.digitaltrends.com/](http://www.digitaltrends.com/)
+      - [http://thenextweb.com/](http://thenextweb.com/)
+      
+    + Productivity
+
 
 10. Grammar
   - [English Experts](http://www.englishexperts.com.br/)
