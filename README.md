@@ -48,10 +48,17 @@
   - English Radio
 
 9. Read
-    + Journal
+    + News/ Generals
       - [Learning English](http://learningenglish.voanews.com/)
       - [New York Times](http://www.nytimes.com/)
       - [Time](http://time.com/)
+      - [http://www.aljazeera.com/](http://www.aljazeera.com/)
+      - [http://mashable.com/](http://mashable.com/)
+      - [https://www.theguardian.com/international](https://www.theguardian.com/international)
+      - [http://www.bbc.com/news](http://www.bbc.com/news)
+      - [https://www.washingtonpost.com/](https://www.washingtonpost.com/)
+      - [https://www.wired.com/](https://www.wired.com/)
+      - [us.gizmodo.com](us.gizmodo.com)
     
     + Technology
       - [TechCrunch](http://techcrunch.com/)
