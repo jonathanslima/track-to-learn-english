@@ -67,6 +67,7 @@
       - [http://www.theverge.com/](http://www.theverge.com/)
       - [http://www.digitaltrends.com/](http://www.digitaltrends.com/)
       - [http://thenextweb.com/](http://thenextweb.com/)
+      - [Hacker News](https://news.ycombinator.com)
 
     + Productivity
       - [http://lifehacker.com/](http://lifehacker.com/)
