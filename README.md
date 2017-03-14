@@ -21,6 +21,7 @@
   - [Learn English ESL](https://www.youtube.com/user/LearnEnglishESL)
   - [BBC Learning English](https://www.youtube.com/user/bbclearningenglish/featured)
   - [Projeto Crazy English](https://www.youtube.com/user/ProjetoCrazyEnglish)
+  - [Daily English](https://www.youtube.com/channel/UCQyQinUTGYTpTz6TTS__xBQ)
 
 4. Books `read` `speak`
   - [Childrens Books Forever](http://www.childrensbooksforever.com/index.html)
