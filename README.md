@@ -34,6 +34,7 @@
   - [Inglês todos os dias](http://www.domineingles.com.br/category/ingles-todos-os-dias/)
   - [English Teacher Melanie](http://www.englishteachermelanie.com/the-english-teacher-melanie-podcast/)
   - [Agora eu falo Inglês](http://agoraeufalo.com/)
+  - [All Ears English](https://www.allearsenglish.com/how-to-listen/)
 
 7. Sites `listen` `read` `speak` `writing`
   - [Interpals](https://www.interpals.net/index.php)
@@ -43,6 +44,7 @@
   - [British Council](http://learnenglish.britishcouncil.org/en/)
   - [Hellenic American Union](http://www.hau.gr/?i=learning.en.podcasts-in-english)
   - [Better A English](http://www.betteratenglish.com/be-episode-archives)
+  - [All Ears English](https://www.allearsenglish.com/)
 
 8. Apps
   - [Duolingo](https://www.duolingo.com/)
