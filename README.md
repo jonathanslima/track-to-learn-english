@@ -49,6 +49,7 @@
 
 8. Apps
   - [Duolingo](https://www.duolingo.com/)
+  - [Memrise](https://www.memrise.com/)
   - English Radio
 
 9. Read
