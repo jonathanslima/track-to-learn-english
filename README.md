@@ -16,11 +16,13 @@
   - [English For You](https://www.youtube.com/watch?v=IeaadwctbD4&list=PLAie3YzOYRmley8mMYy1s9XuZYVxW1Ot7)
   - [Londres na Lata](https://www.youtube.com/channel/UCqBxQUhcaxPKGHT-ftjwFqw)
   - [Aprendo e Compartilho](https://www.youtube.com/user/davifreitasweb)
-  - [English in brazil](https://www.youtube.com/channel/UCcNm9fM9V5wf-0PZVmkM08g)
+  - [English in Brazil](https://www.youtube.com/channel/UCcNm9fM9V5wf-0PZVmkM08g)
   - [Mairo Vergara](https://www.youtube.com/user/MairoVergara)
   - [Learn English ESL](https://www.youtube.com/user/LearnEnglishESL)
   - [BBC Learning English](https://www.youtube.com/user/bbclearningenglish/featured)
   - [Projeto Crazy English](https://www.youtube.com/user/ProjetoCrazyEnglish)
+  - [mmmEnglish](https://www.youtube.com/channel/UCrRiVfHqBIIvSgKmgnSY66g)
+  - [English with Lucy](https://www.youtube.com/channel/UCz4tgANd4yy8Oe0iXCdSWfA)
 
 4. Books `read` `speak`
   - [Childrens Books Forever](http://www.childrensbooksforever.com/index.html)
@@ -42,10 +44,13 @@
   - [British Council](http://learnenglish.britishcouncil.org/en/)
   - [Hellenic American Union](http://www.hau.gr/?i=learning.en.podcasts-in-english)
   - [Better A English](http://www.betteratenglish.com/be-episode-archives)
+  - [Reverso Conjugator](http://conjugator.reverso.net/conjugation-english.html)
+  - [YouGlish](http://youglish.com/)
 
 8. Apps
   - [Duolingo](https://www.duolingo.com/)
-  - English Radio
+  - [HelloTalk](https://www.hellotalk.com/#pt)
+  - [QhiNative](https://hinative.com/pt-PO)
 
 9. News
   - [Learning English](http://learningenglish.voanews.com/)
