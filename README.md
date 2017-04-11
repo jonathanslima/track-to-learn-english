@@ -23,6 +23,7 @@
   - [Projeto Crazy English](https://www.youtube.com/user/ProjetoCrazyEnglish)
   - [mmmEnglish](https://www.youtube.com/channel/UCrRiVfHqBIIvSgKmgnSY66g)
   - [English with Lucy](https://www.youtube.com/channel/UCz4tgANd4yy8Oe0iXCdSWfA)
+  - [Daily English](https://www.youtube.com/channel/UCQyQinUTGYTpTz6TTS__xBQ)
 
 4. Books `read` `speak`
   - [Childrens Books Forever](http://www.childrensbooksforever.com/index.html)
@@ -35,6 +36,8 @@
   - [ESLPpod](https://www.eslpod.com/website/)
   - [Inglês todos os dias](http://www.domineingles.com.br/category/ingles-todos-os-dias/)
   - [English Teacher Melanie](http://www.englishteachermelanie.com/the-english-teacher-melanie-podcast/)
+  - [Agora eu falo Inglês](http://agoraeufalo.com/)
+  - [All Ears English](https://www.allearsenglish.com/how-to-listen/)
 
 7. Sites `listen` `read` `speak` `writing`
   - [Interpals](https://www.interpals.net/index.php)
@@ -51,12 +54,39 @@
   - [Duolingo](https://www.duolingo.com/)
   - [HelloTalk](https://www.hellotalk.com/#pt)
   - [QhiNative](https://hinative.com/pt-PO)
+  - [All Ears English](https://www.allearsenglish.com/)
+  - [Memrise](https://www.memrise.com/)
 
-9. News
-  - [Learning English](http://learningenglish.voanews.com/)
-  - [New York Times](http://www.nytimes.com/)
-  - [Time](http://time.com/)
-  - [TechCrunch](http://techcrunch.com/)
+9. Read
+    + News/ Generals
+      - [Learning English](http://learningenglish.voanews.com/)
+      - [New York Times](http://www.nytimes.com/)
+      - [Time](http://time.com/)
+      - [http://www.aljazeera.com/](http://www.aljazeera.com/)
+      - [http://mashable.com/](http://mashable.com/)
+      - [https://www.theguardian.com/international](https://www.theguardian.com/international)
+      - [http://www.bbc.com/news](http://www.bbc.com/news)
+      - [https://www.washingtonpost.com/](https://www.washingtonpost.com/)
+      - [https://www.wired.com/](https://www.wired.com/)
+      - [us.gizmodo.com](us.gizmodo.com)
+    
+    + Technology
+      - [TechCrunch](http://techcrunch.com/)
+      - [https://9to5mac.com/](https://9to5mac.com/)
+      - [http://www.theverge.com/](http://www.theverge.com/)
+      - [http://www.digitaltrends.com/](http://www.digitaltrends.com/)
+      - [http://thenextweb.com/](http://thenextweb.com/)
+      - [Hacker News](https://news.ycombinator.com)
+
+    + Productivity
+      - [http://lifehacker.com/](http://lifehacker.com/)
+      - [http://www.productivity501.com/](http://www.productivity501.com/)
+      - [http://www.pickthebrain.com/blog/](http://www.pickthebrain.com/blog/)
+      - [http://www.lifeoptimizer.org/](http://www.lifeoptimizer.org/)
+
+    + Web Development
+      - [-https://www.sitepoint.com/](https://www.sitepoint.com/)
+      - [https://www.smashingmagazine.com/](https://www.smashingmagazine.com/)
 
 10. Grammar
   - [English Experts](http://www.englishexperts.com.br/)
