@@ -24,6 +24,8 @@
   - [mmmEnglish](https://www.youtube.com/channel/UCrRiVfHqBIIvSgKmgnSY66g)
   - [English with Lucy](https://www.youtube.com/channel/UCz4tgANd4yy8Oe0iXCdSWfA)
   - [Daily English](https://www.youtube.com/channel/UCQyQinUTGYTpTz6TTS__xBQ)
+  - [Doing English](https://www.youtube.com/user/doingenglishDOTcom)
+  - [EngVid](https://www.youtube.com/user/engvidenglish)
 
 4. Books `read` `speak`
   - [Childrens Books Forever](http://www.childrensbooksforever.com/index.html)
@@ -49,6 +51,7 @@
   - [Better A English](http://www.betteratenglish.com/be-episode-archives)
   - [Reverso Conjugator](http://conjugator.reverso.net/conjugation-english.html)
   - [YouGlish](http://youglish.com/)
+  - [EngVid](https://www.engvid.com/)
 
 8. Apps
   - [Duolingo](https://www.duolingo.com/)
