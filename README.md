@@ -5,6 +5,7 @@
 1. Movies/ Series/ Conferences/ Talks  `listen` `read`
   - [Netflix](https://www.netflix.com/br/)
   - [TED](https://www.ted.com/)
+  - [Amazon Prime Video](https://www.primevideo.com/)
 
 2. Music `listen` `read` `speak`
   - [Letras](https://www.letras.mus.br/)
@@ -26,6 +27,7 @@
   - [Daily English](https://www.youtube.com/channel/UCQyQinUTGYTpTz6TTS__xBQ)
   - [Doing English](https://www.youtube.com/user/doingenglishDOTcom)
   - [EngVid](https://www.youtube.com/user/engvidenglish)
+  - [Junior Silveira](https://www.youtube.com/channel/UC5wx-lr0xX13OcpuxrfCeHw)
 
 4. Books `read` `speak`
   - [Childrens Books Forever](http://www.childrensbooksforever.com/index.html)
@@ -33,6 +35,7 @@
 
 5. HQ's `read` `speak`
   - [Comics English/](http://www.comicsenglish.com/)
+  - [Cyanide & Happiness](http://explosm.net/comics/archive)
 
 6. Podcasts `listen` `read`
   - [ESLPpod](https://www.eslpod.com/website/)
@@ -72,6 +75,8 @@
       - [https://www.washingtonpost.com/](https://www.washingtonpost.com/)
       - [https://www.wired.com/](https://www.wired.com/)
       - [us.gizmodo.com](us.gizmodo.com)
+      - [The Telegraph](https://www.telegraph.co.uk/)
+      - [Daily Mail](http://www.dailymail.co.uk/home/index.html)
     
     + Technology
       - [TechCrunch](http://techcrunch.com/)
@@ -80,6 +85,7 @@
       - [http://www.digitaltrends.com/](http://www.digitaltrends.com/)
       - [http://thenextweb.com/](http://thenextweb.com/)
       - [Hacker News](https://news.ycombinator.com)
+      - [Dev Tube](https://dev.tube/)
 
     + Productivity
       - [http://lifehacker.com/](http://lifehacker.com/)
@@ -100,6 +106,7 @@
 - Change all my devices to English 
 - To learn three new words in english everyday
 - Watch at least one video with subtitles in English (or no subtitles)
+- Get the lyrics of one song that you like and try to sing it, when you can sing without reading try to write it down, that way you practice all the skills necessary to improve your english
 
 ## Help us to improve this track
 
